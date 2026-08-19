@@ -1,49 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "🎯 Motivation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Recent Papers (Last 6 Months)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Published in Recent Conference/Journal"
-    },
-    {
-      "description": "This project is licensed under the MIT License - see the LICENSE file for details.",
-      "items": [],
-      "title": "📄 License"
-    },
-    {
-      "description": "This repository is inspired by Awesome-Efficient-Reasoning-Models, Awesome-Efficient-LLM, Awesome-Context-Engineering",
-      "items": [],
-      "title": "🙏 Acknowledgments"
-    },
-    {
-      "description": "👏 Thanks to these contributors for this excellent work！",
-      "items": [],
-      "title": "🧑‍💻 Contributors"
-    },
-    {
-      "description": "For questions, suggestions, or collaboration opportunities, please feel free to reach out:\n✉️ Email: shaokele@gmail.com / KD.TAO.CT@outlook.com",
-      "items": [],
-      "title": "✉️ Contact"
-    },
-    {
-      "description": "⬆ Back to top",
-      "items": [],
-      "title": "✨ Star History"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T16:00:57.725Z",
+    "last_updated": "2026-08-19T12:11:14.739Z",
     "original_repository": "cokeshao/Awesome-Multimodal-Token-Compression",
+    "original_repository_id": 1012436800,
     "original_repository_sha": "08d2389109b48f724176078d67e4dae53cf5c0ce",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Token-Compression",
     "enhanced_repository_description": null,
