@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![arXiv](https://img.shields.io/badge/arXiv-2507.20198-red.svg)](https://arxiv.org/abs/2507.20198)
-[![Last Commit](https://img.shields.io/github/last-commit/cokeshao/Awesome-Multimodal-Token-Compression.svg?style=flat\&color=orange)](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression) ⭐ 385 | 🐛 2 | 📅 2026-07-27
+[![Last Commit](https://img.shields.io/github/last-commit/cokeshao/Awesome-Multimodal-Token-Compression.svg?style=flat\&color=orange)](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression) ⭐ 386 | 🐛 3 | 📅 2026-07-27
 
 [\[arXiv\]](https://arxiv.org/abs/2507.20198) [\[HuggingFace\]](https://huggingface.co/papers/2507.20198) [\[Database\]](https://oasis-paddleboat-fc1.notion.site/when-tokens-talk-too-much-database)
 
@@ -31,7 +31,7 @@ If you find our paper or this resource helpful, please consider cite:
 ```
 
 > \[!IMPORTANT]
-> We welcome your help in improving the repository and paper. Please feel free to submit a [pull request](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/pulls) ⭐ 385 | 🐛 2 | 📅 2026-07-27 or [contact us](#️-contact) to:
+> We welcome your help in improving the repository and paper. Please feel free to submit a [pull request](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/pulls) ⭐ 386 | 🐛 3 | 📅 2026-07-27 or [contact us](#️-contact) to:
 >
 > * Add a relevant paper not yet included.
 >
@@ -64,11 +64,11 @@ If you find our paper or this resource helpful, please consider cite:
 ## 📚 Contents
 
 * [Awesome Token Compression](#awesome-multimodal-token-compression)
-  * [Image LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/image-llm.md) ⭐ 385 | 🐛 2 | 📅 2026-07-27
-  * [Video LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/video-llm.md) ⭐ 385 | 🐛 2 | 📅 2026-07-27
-  * [Audio LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-llm.md) ⭐ 385 | 🐛 2 | 📅 2026-07-27
-  * [Vision Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/vision-transformer.md) ⭐ 385 | 🐛 2 | 📅 2026-07-27
-  * [Audio Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-transformer.md) ⭐ 385 | 🐛 2 | 📅 2026-07-27
+  * [Image LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/image-llm.md) ⭐ 386 | 🐛 3 | 📅 2026-07-27
+  * [Video LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/video-llm.md) ⭐ 386 | 🐛 3 | 📅 2026-07-27
+  * [Audio LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-llm.md) ⭐ 386 | 🐛 3 | 📅 2026-07-27
+  * [Vision Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/vision-transformer.md) ⭐ 386 | 🐛 3 | 📅 2026-07-27
+  * [Audio Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-transformer.md) ⭐ 386 | 🐛 3 | 📅 2026-07-27
 
 **Please check out all the papers by selecting the sub-area you're interested in. On this main page, only papers released in the past 6 months are shown.**
 
@@ -271,7 +271,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-This repository is inspired by [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) ⭐ 318 | 🐛 0 | 🌐 Python | 📅 2026-06-26, [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM/) ⭐ 2,035 | 🐛 11 | 🌐 Python | 📅 2025-06-17, [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ⭐ 3,278 | 🐛 65 | 📅 2026-05-28
+This repository is inspired by [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) ⭐ 318 | 🐛 0 | 🌐 Python | 📅 2026-06-26, [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM/) ⭐ 2,035 | 🐛 11 | 🌐 Python | 📅 2025-06-17, [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ⭐ 3,279 | 🐛 65 | 📅 2026-05-28
 
 ## 🧑‍💻 Contributors
 
