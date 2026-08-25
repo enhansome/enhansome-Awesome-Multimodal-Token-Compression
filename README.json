@@ -94,7 +94,7 @@
         {
           "node_type": "item",
           "title": "VisCo",
-          "description": "VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token CompressionYupeng Zheng, Kai Zou, Bin Liu, Nenghai Yu Paper GitHub",
+          "description": "VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token CompressionYupeng Zheng, Kai Zou, Bin Liu, Nenghai Yu   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -109,7 +109,7 @@
         {
           "node_type": "item",
           "title": "AgilePruner",
-          "description": "AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language ModelsChangwoo Baek, Jouwon Song, Sohyeon Kim, Kyeongbo Kong Paper GitHub",
+          "description": "AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language ModelsChangwoo Baek, Jouwon Song, Sohyeon Kim, Kyeongbo Kong   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -124,7 +124,7 @@
         {
           "node_type": "item",
           "title": "VisionTrim",
-          "description": "VisionTrim: Unified Vision Token Compression for Training-Free MLLM AccelerationHanxun Yu, Wentong Li, Xuan Qu, Song Wang, Junbo Chen, Jianke Zhu Paper GitHub",
+          "description": "VisionTrim: Unified Vision Token Compression for Training-Free MLLM AccelerationHanxun Yu, Wentong Li, Xuan Qu, Song Wang, Junbo Chen, Jianke Zhu   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -145,7 +145,7 @@
         {
           "node_type": "item",
           "title": "STC",
-          "description": "Accelerating Streaming Video Large Language Models via Hierarchical Token CompressionYiyu Wang, Xuyang Liu, Xiyan Gui, Xinying Lin, Boxue Yang, Chenfei Liao, Tailai Chen, Linfeng Zhang Paper GitHub",
+          "description": "Accelerating Streaming Video Large Language Models via Hierarchical Token CompressionYiyu Wang, Xuyang Liu, Xiyan Gui, Xinying Lin, Boxue Yang, Chenfei Liao, Tailai Chen, Linfeng Zhang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -166,7 +166,7 @@
         {
           "node_type": "item",
           "title": "SEATS",
-          "description": "Stage-adaptive Token Selection for Efficient Omni-modal LLMsZijie Xin, Jie Yang, Ruixiang Zhao, Tianyi Wang, Fengyun Rao, Jing Lyu, Xirong Li Paper GitHub",
+          "description": "Stage-adaptive Token Selection for Efficient Omni-modal LLMsZijie Xin, Jie Yang, Ruixiang Zhao, Tianyi Wang, Fengyun Rao, Jing Lyu, Xirong Li   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -181,7 +181,7 @@
         {
           "node_type": "item",
           "title": "OmniSIFT",
-          "description": "OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language ModelsYue Ding, Yiyan Ji, Jungang Li, Xuyang Liu, Xinlong Chen, Junfei Wu, Bozhou Li, Bohan Zeng, Yang Shi, Yushuo Guan, Yuanxing Zhang, Jiaheng Liu, Qiang Liu, Pengfei Wan, Liang Wang Paper GitHub Model",
+          "description": "OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language ModelsYue Ding, Yiyan Ji, Jungang Li, Xuyang Liu, Xinlong Chen, Junfei Wu, Bozhou Li, Bohan Zeng, Yang Shi, Yushuo Guan, Yuanxing Zhang, Jiaheng Liu, Qiang Liu, Pengfei Wan, Liang Wang   Paper GitHub Model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -196,7 +196,7 @@
         {
           "node_type": "item",
           "title": "OmniZip",
-          "description": "OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language ModelsKeda Tao, Kele Shao, Bohan Yu, Weiqiang Wang, Jian liu, Huan Wang Paper GitHub",
+          "description": "OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language ModelsKeda Tao, Kele Shao, Bohan Yu, Weiqiang Wang, Jian liu, Huan Wang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -217,7 +217,7 @@
         {
           "node_type": "item",
           "title": "VisCo",
-          "description": "VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token CompressionYupeng Zheng, Kai Zou, Bin Liu, Nenghai Yu Paper GitHub",
+          "description": "VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token CompressionYupeng Zheng, Kai Zou, Bin Liu, Nenghai Yu   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -238,7 +238,7 @@
         {
           "node_type": "item",
           "title": "STC",
-          "description": "Accelerating Streaming Video Large Language Models via Hierarchical Token CompressionYiyu Wang, Xuyang Liu, Xiyan Gui, Xinying Lin, Boxue Yang, Chenfei Liao, Tailai Chen, Linfeng Zhang Paper GitHub",
+          "description": "Accelerating Streaming Video Large Language Models via Hierarchical Token CompressionYiyu Wang, Xuyang Liu, Xiyan Gui, Xinying Lin, Boxue Yang, Chenfei Liao, Tailai Chen, Linfeng Zhang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -253,7 +253,7 @@
         {
           "node_type": "item",
           "title": "OmniZip",
-          "description": "OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language ModelsKeda Tao, Kele Shao, Bohan Yu, Weiqiang Wang, Jian liu, Huan Wang Paper GitHub",
+          "description": "OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language ModelsKeda Tao, Kele Shao, Bohan Yu, Weiqiang Wang, Jian liu, Huan Wang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -268,7 +268,7 @@
         {
           "node_type": "item",
           "title": "StreamingTOM",
-          "description": "StreamingTOM: Streaming Token Compression for Efficient Video UnderstandingXueyi Chen, Keda Tao, Kele Shao, Huan Wang Paper GitHub",
+          "description": "StreamingTOM: Streaming Token Compression for Efficient Video UnderstandingXueyi Chen, Keda Tao, Kele Shao, Huan Wang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -289,7 +289,7 @@
         {
           "node_type": "item",
           "title": "AgilePruner",
-          "description": "AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language ModelsChangwoo Baek, Jouwon Song, Sohyeon Kim, Kyeongbo Kong Paper GitHub",
+          "description": "AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language ModelsChangwoo Baek, Jouwon Song, Sohyeon Kim, Kyeongbo Kong   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -304,7 +304,7 @@
         {
           "node_type": "item",
           "title": "VisionTrim",
-          "description": "VisionTrim: Unified Vision Token Compression for Training-Free MLLM AccelerationHanxun Yu, Wentong Li, Xuan Qu, Song Wang, Junbo Chen, Jianke Zhu Paper GitHub",
+          "description": "VisionTrim: Unified Vision Token Compression for Training-Free MLLM AccelerationHanxun Yu, Wentong Li, Xuan Qu, Song Wang, Junbo Chen, Jianke Zhu   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -319,7 +319,7 @@
         {
           "node_type": "item",
           "title": "PPE",
-          "description": "PPE: Positional Preservation Embedding for Token Compression in Multimodal Large Language ModelsMouxiao Huang, Borui Jiang, Dehua Zheng, Hailin Hu, Kai Han, Xinghao Chen Paper GitHub",
+          "description": "PPE: Positional Preservation Embedding for Token Compression in Multimodal Large Language ModelsMouxiao Huang, Borui Jiang, Dehua Zheng, Hailin Hu, Kai Han, Xinghao Chen   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -340,7 +340,7 @@
         {
           "node_type": "item",
           "title": "LangDC",
-          "description": "Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token CompressorsXiangchen Wang, Jinrui Zhang, Teng Wang, Haigang Zhang, Feng Zheng Paper GitHub",
+          "description": "Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token CompressorsXiangchen Wang, Jinrui Zhang, Teng Wang, Haigang Zhang, Feng Zheng   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -361,7 +361,7 @@
         {
           "node_type": "item",
           "title": "AutoPrune",
-          "description": "AutoPrune: Each Complexity Deserves a Pruning PolicyHanshi Wang, Yuhao Xu, Zekun Xu, Jin Gao, Yufan Liu, Weiming Hu, Ke Wang, Zhipeng Zhang Paper GitHub",
+          "description": "AutoPrune: Each Complexity Deserves a Pruning PolicyHanshi Wang, Yuhao Xu, Zekun Xu, Jin Gao, Yufan Liu, Weiming Hu, Ke Wang, Zhipeng Zhang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -376,7 +376,7 @@
         {
           "node_type": "item",
           "title": "VisionThink",
-          "description": "VisionThink: Smart and Efficient Vision Language Model via Reinforcement LearningSenqiao Yang, Junyi Li, Xin Lai, Bei Yu, Hengshuang Zhao, Jiaya Jia Paper GitHub Model Dataset",
+          "description": "VisionThink: Smart and Efficient Vision Language Model via Reinforcement LearningSenqiao Yang, Junyi Li, Xin Lai, Bei Yu, Hengshuang Zhao, Jiaya Jia   Paper GitHub Model Dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -391,7 +391,7 @@
         {
           "node_type": "item",
           "title": "CDPruner",
-          "description": "Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMsQizhe Zhang, Mengzhen Liu, Lichen Li, Ming Lu, Yuan Zhang, Junwen Pan, Qi She, Shanghang Zhang Paper GitHub",
+          "description": "Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMsQizhe Zhang, Mengzhen Liu, Lichen Li, Ming Lu, Yuan Zhang, Junwen Pan, Qi She, Shanghang Zhang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -406,7 +406,7 @@
         {
           "node_type": "item",
           "title": "flexselect",
-          "description": "FlexSelect: Flexible Token Selection for Efficient Long Video UnderstandingYunzhu Zhang, Yu Lu, Tianyi Wang, Fengyun Rao, Yi Yang, Linchao Zhu Paper GitHub",
+          "description": "FlexSelect: Flexible Token Selection for Efficient Long Video UnderstandingYunzhu Zhang, Yu Lu, Tianyi Wang, Fengyun Rao, Yi Yang, Linchao Zhu   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -421,7 +421,7 @@
         {
           "node_type": "item",
           "title": "HoliTom",
-          "description": "HoliTom: Holistic Token Merging for Fast Video Large Language ModelsKele Shao, Keda Tao, Can Qin, Haoxuan You, Yang Sui, Huan Wang Paper GitHub",
+          "description": "HoliTom: Holistic Token Merging for Fast Video Large Language ModelsKele Shao, Keda Tao, Can Qin, Haoxuan You, Yang Sui, Huan Wang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -436,7 +436,7 @@
         {
           "node_type": "item",
           "title": "VQToken",
-          "description": "VQToken: Neural Discrete Token Representation Learning for Extreme Token Reduction in Video Large Language ModelsHaichao Zhang, Yun Fu Paper GitHub Model",
+          "description": "VQToken: Neural Discrete Token Representation Learning for Extreme Token Reduction in Video Large Language ModelsHaichao Zhang, Yun Fu   Paper GitHub Model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -451,7 +451,7 @@
         {
           "node_type": "item",
           "title": "FastVID",
-          "description": "FastVID: Dynamic Density Pruning for Fast Video Large Language ModelsLeqi Shen, Guoqiang Gong, Tao He, Yifeng Zhang, Pengzhang Liu, Sicheng Zhao, Guiguang Ding Paper GitHub",
+          "description": "FastVID: Dynamic Density Pruning for Fast Video Large Language ModelsLeqi Shen, Guoqiang Gong, Tao He, Yifeng Zhang, Pengzhang Liu, Sicheng Zhao, Guiguang Ding   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -472,7 +472,7 @@
         {
           "node_type": "item",
           "title": "VFlowOpt",
-          "description": "VFlowOpt: A Token Pruning Framework for LMMs with Visual Information Flow-Guided OptimizationSihan Yang, Runsen Xu, Chenhang Cui, Tai Wang, Dahua Lin, Jiangmiao Pang Paper GitHub",
+          "description": "VFlowOpt: A Token Pruning Framework for LMMs with Visual Information Flow-Guided OptimizationSihan Yang, Runsen Xu, Chenhang Cui, Tai Wang, Dahua Lin, Jiangmiao Pang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -487,7 +487,7 @@
         {
           "node_type": "item",
           "title": "Representation-Shift",
-          "description": "Representation Shift: Unifying Token Compression with FlashAttentionJoonmyung Choi, Sanghyeok Lee, Byungoh Ko, Eunseo Kim, Jihyung Kil, Hyunwoo J. Kim Paper GitHub",
+          "description": "Representation Shift: Unifying Token Compression with FlashAttentionJoonmyung Choi, Sanghyeok Lee, Byungoh Ko, Eunseo Kim, Jihyung Kil, Hyunwoo J. Kim   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -502,7 +502,7 @@
         {
           "node_type": "item",
           "title": "METEOR",
-          "description": "METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language ModelsYuchen Liu, Yaoming Wang, Bowen Shi, Xiaopeng Zhang, Wenrui Dai, Chenglin Li, Hongkai Xiong, Qi Tian Paper GitHub",
+          "description": "METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language ModelsYuchen Liu, Yaoming Wang, Bowen Shi, Xiaopeng Zhang, Wenrui Dai, Chenglin Li, Hongkai Xiong, Qi Tian   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -517,7 +517,7 @@
         {
           "node_type": "item",
           "title": "STTM",
-          "description": "Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video-LLMsJeongseok Hyun, Sukjun Hwang, Su Ho Han, Taeoh Kim, Inwoong Lee, Dongyoon Wee, Joon-Young Lee, Seon Joo Kim, Minho Shim Paper GitHub",
+          "description": "Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video-LLMsJeongseok Hyun, Sukjun Hwang, Su Ho Han, Taeoh Kim, Inwoong Lee, Dongyoon Wee, Joon-Young Lee, Seon Joo Kim, Minho Shim   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -532,7 +532,7 @@
         {
           "node_type": "item",
           "title": "Skip-Vision",
-          "description": "Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via Adaptive Token SkippingWeili Zeng, Ziyuan Huang, Kaixiang Ji, Yichao Yan Paper GitHub",
+          "description": "Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via Adaptive Token SkippingWeili Zeng, Ziyuan Huang, Kaixiang Ji, Yichao Yan   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -547,7 +547,7 @@
         {
           "node_type": "item",
           "title": "LSDBench",
-          "description": "Does Your Vision-Language Model Get Lost in the Long Video Sampling Dilemma?Tianyuan Qu, Longxiang Tang, Bohao Peng, Senqiao Yang, Bei Yu, Jiaya Jia Paper GitHub Dataset",
+          "description": "Does Your Vision-Language Model Get Lost in the Long Video Sampling Dilemma?Tianyuan Qu, Longxiang Tang, Bohao Peng, Senqiao Yang, Bei Yu, Jiaya Jia   Paper GitHub Dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -562,7 +562,7 @@
         {
           "node_type": "item",
           "title": "Folder",
-          "description": "FOLDER: Accelerating Multi-modal Large Language Models with Enhanced PerformanceHaicheng Wang, Zhemeng Yu, Gabriele Spadaro, Chen Ju, Victor Quétu, Shuai Xiao, Enzo Tartaglione Paper GitHub",
+          "description": "FOLDER: Accelerating Multi-modal Large Language Models with Enhanced PerformanceHaicheng Wang, Zhemeng Yu, Gabriele Spadaro, Chen Ju, Victor Quétu, Shuai Xiao, Enzo Tartaglione   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -577,7 +577,7 @@
         {
           "node_type": "item",
           "title": "FrameFusion",
-          "description": "FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language ModelsTianyu Fu, Tengxuan Liu, Qinghao Han, Guohao Dai, Shengen Yan, Huazhong Yang, Xuefei Ning, Yu Wang Paper GitHub",
+          "description": "FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language ModelsTianyu Fu, Tengxuan Liu, Qinghao Han, Guohao Dai, Shengen Yan, Huazhong Yang, Xuefei Ning, Yu Wang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -592,7 +592,7 @@
         {
           "node_type": "item",
           "title": "ByteVideoLLM",
-          "description": "Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLMHan Wang, Yuxiang Nie, Yongjie Ye, Deng GuanYu, Yanjie Wang, Shuai Li, Haiyang Yu, Jinghui Lu, Can Huang Paper GitHub",
+          "description": "Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLMHan Wang, Yuxiang Nie, Yongjie Ye, Deng GuanYu, Yanjie Wang, Shuai Li, Haiyang Yu, Jinghui Lu, Can Huang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -607,7 +607,7 @@
         {
           "node_type": "item",
           "title": "Lyra",
-          "description": "Lyra: An Efficient and Speech-Centric Framework for Omni-CognitionZhisheng Zhong, Chengyao Wang, Yuqi Liu, Senqiao Yang, Longxiang Tang, Yuechen Zhang, Jingyao Li, Tianyuan Qu, Yanwei Li, Yukang Chen, Shaozuo Yu, Sitong Wu, Eric Lo, Shu Liu, Jiaya Jia Paper GitHub Model Dataset",
+          "description": "Lyra: An Efficient and Speech-Centric Framework for Omni-CognitionZhisheng Zhong, Chengyao Wang, Yuqi Liu, Senqiao Yang, Longxiang Tang, Yuechen Zhang, Jingyao Li, Tianyuan Qu, Yanwei Li, Yukang Chen, Shaozuo Yu, Sitong Wu, Eric Lo, Shu Liu, Jiaya Jia   Paper GitHub Model Dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -622,7 +622,7 @@
         {
           "node_type": "item",
           "title": "AIM",
-          "description": "AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and PruningYiwu Zhong, Zhuoming Liu, Yin Li, Liwei Wang Paper GitHub",
+          "description": "AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and PruningYiwu Zhong, Zhuoming Liu, Yin Li, Liwei Wang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -637,7 +637,7 @@
         {
           "node_type": "item",
           "title": "VisPruner",
-          "description": "Beyond Text-Visual Attention: Exploiting Visual Cues for Effective Token Pruning in VLMsQizhe Zhang, Aosong Cheng, Ming Lu, Renrui Zhang, Zhiyong Zhuo, Jiajun Cao, Shaobo Guo, Qi She, Shanghang Zhang Paper GitHub",
+          "description": "Beyond Text-Visual Attention: Exploiting Visual Cues for Effective Token Pruning in VLMsQizhe Zhang, Aosong Cheng, Ming Lu, Renrui Zhang, Zhiyong Zhuo, Jiajun Cao, Shaobo Guo, Qi She, Shanghang Zhang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -652,7 +652,7 @@
         {
           "node_type": "item",
           "title": "HERMES",
-          "description": "HERMES: temporal-coHERent long-forM understanding with Episodes and SemanticsGueter Josmy Faure, Jia-Fong Yeh, Min-Hung Chen, Hung-Ting Su, Shang-Hong Lai, Winston H. Hsu Paper GitHub",
+          "description": "HERMES: temporal-coHERent long-forM understanding with Episodes and SemanticsGueter Josmy Faure, Jia-Fong Yeh, Min-Hung Chen, Hung-Ting Su, Shang-Hong Lai, Winston H. Hsu   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -667,7 +667,7 @@
         {
           "node_type": "item",
           "title": "LLaVA-PruMerge",
-          "description": "LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal ModelsYuzhang Shang, Mu Cai, Bingxin Xu, Yong Jae Lee, Yan Yan Paper GitHub",
+          "description": "LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal ModelsYuzhang Shang, Mu Cai, Bingxin Xu, Yong Jae Lee, Yan Yan   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -688,7 +688,7 @@
         {
           "node_type": "item",
           "title": "EffiVLM-Bench",
-          "description": "EffiVLM-Bench: A Comprehensive Benchmark for Evaluating Training-Free Acceleration in Large Visual-Languge ModelsZekun Wang, Minghua Ma, Zexin Wang, Rongchuan Mu, Liping Shan, Ming Liu, Bing Qin Paper GitHub",
+          "description": "EffiVLM-Bench: A Comprehensive Benchmark for Evaluating Training-Free Acceleration in Large Visual-Languge ModelsZekun Wang, Minghua Ma, Zexin Wang, Rongchuan Mu, Liping Shan, Ming Liu, Bing Qin   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -703,7 +703,7 @@
         {
           "node_type": "item",
           "title": "MMS-LLaMA",
-          "description": "MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech TokensJeong Hun Yeo, Hyeongseop Rha, Se Jin Park, Yong Man Ro Paper GitHub",
+          "description": "MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech TokensJeong Hun Yeo, Hyeongseop Rha, Se Jin Park, Yong Man Ro   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -718,7 +718,7 @@
         {
           "node_type": "item",
           "title": "MEDA",
-          "description": "MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context InferenceZhongwei Wan, Hui Shen, Xin Wang, Che Liu, Zheda Mai, Mi Zhang Paper GitHub",
+          "description": "MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context InferenceZhongwei Wan, Hui Shen, Xin Wang, Che Liu, Zheda Mai, Mi Zhang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -733,7 +733,7 @@
         {
           "node_type": "item",
           "title": "PruneVid",
-          "description": "PruneVid: Visual Token Pruning for Efficient Video Large Language ModelsXiaohu Huang, Hao Zhou, Kai Han Paper GitHub",
+          "description": "PruneVid: Visual Token Pruning for Efficient Video Large Language ModelsXiaohu Huang, Hao Zhou, Kai Han   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -748,7 +748,7 @@
         {
           "node_type": "item",
           "title": "Prompt-Compression-Survey",
-          "description": "Prompt Compression for Large Language Models: A SurveyZongqian Li, Yinhong Liu, Yixuan Su, Nigel Collier Paper GitHub",
+          "description": "Prompt Compression for Large Language Models: A SurveyZongqian Li, Yinhong Liu, Yixuan Su, Nigel Collier   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -769,7 +769,7 @@
         {
           "node_type": "item",
           "title": "2025-ICML-CoreMatching",
-          "description": "CoreMatching: A Co-adaptive Sparse Inference Framework with Token and Neuron Pruning for Comprehensive Acceleration of Vision-Language ModelsQinsi Wang, Hancheng Ye, Ming-Yu Chung, Yudong Liu, Yueqian Lin, Martin Kuo, Mingyuan Ma, Jianyi Zhang, Yiran Chen Paper GitHub",
+          "description": "CoreMatching: A Co-adaptive Sparse Inference Framework with Token and Neuron Pruning for Comprehensive Acceleration of Vision-Language ModelsQinsi Wang, Hancheng Ye, Ming-Yu Chung, Yudong Liu, Yueqian Lin, Martin Kuo, Mingyuan Ma, Jianyi Zhang, Yiran Chen   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -784,7 +784,7 @@
         {
           "node_type": "item",
           "title": "ALMTokenizer",
-          "description": "ALMTokenizer: A Low-bitrate and Semantic-rich Audio Codec Tokenizer for Audio Language ModelingDongchao Yang, Songxiang Liu, Haohan Guo, Jiankun Zhao, Yuanyuan Wang, Helin Wang, Zeqian Ju, Xubo Liu, Xueyuan Chen, Xu Tan, Xixin Wu, Helen Meng Paper GitHub",
+          "description": "ALMTokenizer: A Low-bitrate and Semantic-rich Audio Codec Tokenizer for Audio Language ModelingDongchao Yang, Songxiang Liu, Haohan Guo, Jiankun Zhao, Yuanyuan Wang, Helin Wang, Zeqian Ju, Xubo Liu, Xueyuan Chen, Xu Tan, Xixin Wu, Helen Meng   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -799,7 +799,7 @@
         {
           "node_type": "item",
           "title": "ViLAMP",
-          "description": "Scaling Video-Language Models to 10K Frames via Hierarchical Differential DistillationChuanqi Cheng, Jian Guan, Wei Wu, Rui Yan Paper GitHub Model",
+          "description": "Scaling Video-Language Models to 10K Frames via Hierarchical Differential DistillationChuanqi Cheng, Jian Guan, Wei Wu, Rui Yan   Paper GitHub Model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -814,7 +814,7 @@
         {
           "node_type": "item",
           "title": "LongVU",
-          "description": "LongVU: Spatiotemporal Adaptive Compression for Long Video-Language UnderstandingXiaoqian Shen, Yunyang Xiong, Changsheng Zhao, Lemeng Wu, Jun Chen, Chenchen Zhu, Zechun Liu, Fanyi Xiao, Balakrishnan Varadarajan, Florian Bordes, Zhuang Liu, Hu Xu, Hyunwoo J. Kim, Bilge Soran, Raghuraman Krishnamoorthi, Mohamed Elhoseiny, Vikas Chandra Paper GitHub Model",
+          "description": "LongVU: Spatiotemporal Adaptive Compression for Long Video-Language UnderstandingXiaoqian Shen, Yunyang Xiong, Changsheng Zhao, Lemeng Wu, Jun Chen, Chenchen Zhu, Zechun Liu, Fanyi Xiao, Balakrishnan Varadarajan, Florian Bordes, Zhuang Liu, Hu Xu, Hyunwoo J. Kim, Bilge Soran, Raghuraman Krishnamoorthi, Mohamed Elhoseiny, Vikas Chandra   Paper GitHub Model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -829,7 +829,7 @@
         {
           "node_type": "item",
           "title": "SparseVLMs",
-          "description": "SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model InferenceYuan Zhang, Chun-Kai Fan, Junpeng Ma, Wenzhao Zheng, Tao Huang, Kuan Cheng, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Shanghang Zhang Paper GitHub",
+          "description": "SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model InferenceYuan Zhang, Chun-Kai Fan, Junpeng Ma, Wenzhao Zheng, Tao Huang, Kuan Cheng, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Shanghang Zhang   Paper GitHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -850,7 +850,7 @@
         {
           "node_type": "item",
           "title": "TimeChat-Online",
-          "description": "TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming VideosLinli Yao, Yicheng Li, Yuancheng Wei, Lei Li, Shuhuai Ren, Yuanxin Liu, Kun Ouyang, Lean Wang, Shicheng Li, Sida Li, Lingpeng Kong, Qi Liu, Yuanxing Zhang, Xu Sun Paper GitHub Model Dataset",
+          "description": "TimeChat-Online: 80% Visual Tokens are Naturally Redundant in Streaming VideosLinli Yao, Yicheng Li, Yuancheng Wei, Lei Li, Shuhuai Ren, Yuanxin Liu, Kun Ouyang, Lean Wang, Shicheng Li, Sida Li, Lingpeng Kong, Qi Liu, Yuanxing Zhang, Xu Sun   Paper GitHub Model Dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -867,7 +867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:07:30.861Z",
+    "last_updated": "2026-08-25T06:18:32.185Z",
     "original_repository": "cokeshao/Awesome-Multimodal-Token-Compression",
     "original_repository_id": 1012436800,
     "original_repository_sha": "08d2389109b48f724176078d67e4dae53cf5c0ce",
