@@ -20,7 +20,7 @@
                 "last_commit": "2026-07-27T06:44:45Z",
                 "owner": "cokeshao",
                 "repo": "Awesome-Multimodal-Token-Compression",
-                "stars": 386
+                "stars": 387
               }
             },
             {
@@ -35,7 +35,7 @@
                 "last_commit": "2026-07-27T06:44:45Z",
                 "owner": "cokeshao",
                 "repo": "Awesome-Multimodal-Token-Compression",
-                "stars": 386
+                "stars": 387
               }
             },
             {
@@ -50,7 +50,7 @@
                 "last_commit": "2026-07-27T06:44:45Z",
                 "owner": "cokeshao",
                 "repo": "Awesome-Multimodal-Token-Compression",
-                "stars": 386
+                "stars": 387
               }
             },
             {
@@ -65,7 +65,7 @@
                 "last_commit": "2026-07-27T06:44:45Z",
                 "owner": "cokeshao",
                 "repo": "Awesome-Multimodal-Token-Compression",
-                "stars": 386
+                "stars": 387
               }
             },
             {
@@ -80,7 +80,7 @@
                 "last_commit": "2026-07-27T06:44:45Z",
                 "owner": "cokeshao",
                 "repo": "Awesome-Multimodal-Token-Compression",
-                "stars": 386
+                "stars": 387
               }
             }
           ]
@@ -205,7 +205,7 @@
             "last_commit": "2026-04-20T05:21:26Z",
             "owner": "KD-TAO",
             "repo": "OmniZip",
-            "stars": 104
+            "stars": 105
           }
         }
       ],
@@ -262,7 +262,7 @@
             "last_commit": "2026-04-20T05:21:26Z",
             "owner": "KD-TAO",
             "repo": "OmniZip",
-            "stars": 104
+            "stars": 105
           }
         },
         {
@@ -526,7 +526,7 @@
             "last_commit": "2026-02-02T08:44:03Z",
             "owner": "HYUNJS",
             "repo": "STTM",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -867,9 +867,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:37:08.352Z",
-    "original_repository": "cokeshao/Awesome-Multimodal-Token-Compression",
-    "original_repository_id": 1012436800,
+    "last_updated": "2026-08-27T11:25:29.167Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1012436800,
+      "language": null,
+      "last_commit": "2026-07-27T06:44:45Z",
+      "owner": "cokeshao",
+      "repo": "Awesome-Multimodal-Token-Compression",
+      "stars": 387
+    },
     "original_repository_sha": "08d2389109b48f724176078d67e4dae53cf5c0ce",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Token-Compression",
     "enhanced_repository_description": null,
