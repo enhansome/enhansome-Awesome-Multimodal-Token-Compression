@@ -15,12 +15,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
+                "homepage": null,
                 "id": 1012436800,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-27T06:44:45Z",
+                "open_issues": 3,
                 "owner": "cokeshao",
                 "repo": "Awesome-Multimodal-Token-Compression",
-                "stars": 387
+                "stars": 387,
+                "topics": [
+                  "awesome-list",
+                  "efficient-ai",
+                  "efficient-mllm",
+                  "long-context",
+                  "mllm",
+                  "model-acceleration",
+                  "token-compression"
+                ]
               },
               "first_seen": "2026-08-29T00:05:43.334Z"
             },
@@ -31,12 +44,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
+                "homepage": null,
                 "id": 1012436800,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-27T06:44:45Z",
+                "open_issues": 3,
                 "owner": "cokeshao",
                 "repo": "Awesome-Multimodal-Token-Compression",
-                "stars": 387
+                "stars": 387,
+                "topics": [
+                  "awesome-list",
+                  "efficient-ai",
+                  "efficient-mllm",
+                  "long-context",
+                  "mllm",
+                  "model-acceleration",
+                  "token-compression"
+                ]
               },
               "first_seen": "2026-08-29T00:05:43.334Z"
             },
@@ -47,12 +73,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
+                "homepage": null,
                 "id": 1012436800,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-27T06:44:45Z",
+                "open_issues": 3,
                 "owner": "cokeshao",
                 "repo": "Awesome-Multimodal-Token-Compression",
-                "stars": 387
+                "stars": 387,
+                "topics": [
+                  "awesome-list",
+                  "efficient-ai",
+                  "efficient-mllm",
+                  "long-context",
+                  "mllm",
+                  "model-acceleration",
+                  "token-compression"
+                ]
               },
               "first_seen": "2026-08-29T00:05:43.334Z"
             },
@@ -63,12 +102,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
+                "homepage": null,
                 "id": 1012436800,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-27T06:44:45Z",
+                "open_issues": 3,
                 "owner": "cokeshao",
                 "repo": "Awesome-Multimodal-Token-Compression",
-                "stars": 387
+                "stars": 387,
+                "topics": [
+                  "awesome-list",
+                  "efficient-ai",
+                  "efficient-mllm",
+                  "long-context",
+                  "mllm",
+                  "model-acceleration",
+                  "token-compression"
+                ]
               },
               "first_seen": "2026-08-29T00:05:43.334Z"
             },
@@ -79,12 +131,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
+                "homepage": null,
                 "id": 1012436800,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-27T06:44:45Z",
+                "open_issues": 3,
                 "owner": "cokeshao",
                 "repo": "Awesome-Multimodal-Token-Compression",
-                "stars": 387
+                "stars": 387,
+                "topics": [
+                  "awesome-list",
+                  "efficient-ai",
+                  "efficient-mllm",
+                  "long-context",
+                  "mllm",
+                  "model-acceleration",
+                  "token-compression"
+                ]
               },
               "first_seen": "2026-08-29T00:05:43.334Z"
             }
@@ -103,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACM MM 2026]  VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression",
+            "homepage": null,
             "id": 1297984865,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T02:47:49Z",
+            "open_issues": 0,
             "owner": "Zyvpeng",
             "repo": "VisCo",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -119,12 +189,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2026] AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models",
+            "homepage": "https://paper.pnu-cvsp.com/AgilePruner/",
             "id": 1063785022,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T01:57:40Z",
+            "open_issues": 1,
             "owner": "cvsp-lab",
             "repo": "AgilePruner",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "agilepruner",
+              "attention",
+              "efficiency",
+              "efficient-inference",
+              "hallucination",
+              "iclr2026",
+              "large-vision-language-models",
+              "llava",
+              "lvlm",
+              "multi-modality",
+              "multimodal",
+              "qwen",
+              "token-pruning",
+              "vision-language-model",
+              "visual-token-pruning",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -135,12 +227,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2026] Official code repository for \"⚡️VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration\"",
+            "homepage": null,
             "id": 1145659646,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-17T12:42:28Z",
+            "open_issues": 4,
             "owner": "hanxunyu",
             "repo": "VisionTrim",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "efficiency",
+              "lightweight-vlm",
+              "multimodal",
+              "token-compression"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         }
@@ -157,12 +259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2026] Accelerating Streaming Video Large Language Models via Hierarchical Token Compression",
+            "homepage": null,
             "id": 1107038317,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-08T18:34:25Z",
+            "open_issues": 6,
             "owner": "lern-to-write",
             "repo": "STC",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         }
@@ -179,12 +286,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo is the official implementation of \"Stage-adaptive Token Selection for Efficient Omni-modal LLMs\"",
+            "homepage": "https://xxayt.github.io/SEATS/",
             "id": 1243510961,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-14T08:27:32Z",
+            "open_issues": 0,
             "owner": "xxayt",
             "repo": "SEATS",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "audio-visual",
+              "efficiency",
+              "mllm",
+              "omni-llm",
+              "omni-modal",
+              "omni-modal-video-understanding",
+              "token-compression",
+              "token-selection"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -195,12 +316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML2026] OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models",
+            "homepage": null,
             "id": 1235556817,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-21T13:32:28Z",
+            "open_issues": 0,
             "owner": "dingyue772",
             "repo": "OmniSIFT",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -211,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2026] OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models",
+            "homepage": null,
             "id": 1098710608,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-20T05:21:26Z",
+            "open_issues": 3,
             "owner": "KD-TAO",
             "repo": "OmniZip",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         }
@@ -233,12 +364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACM MM 2026]  VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression",
+            "homepage": null,
             "id": 1297984865,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T02:47:49Z",
+            "open_issues": 0,
             "owner": "Zyvpeng",
             "repo": "VisCo",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         }
@@ -255,12 +391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2026] Accelerating Streaming Video Large Language Models via Hierarchical Token Compression",
+            "homepage": null,
             "id": 1107038317,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-08T18:34:25Z",
+            "open_issues": 6,
             "owner": "lern-to-write",
             "repo": "STC",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -271,12 +412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2026] OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models",
+            "homepage": null,
             "id": 1098710608,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-20T05:21:26Z",
+            "open_issues": 3,
             "owner": "KD-TAO",
             "repo": "OmniZip",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -287,12 +433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1063187682,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-05T13:52:41Z",
+            "open_issues": 2,
             "owner": "YIGE24",
             "repo": "StreamingTOM",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         }
@@ -309,12 +460,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2026] AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models",
+            "homepage": "https://paper.pnu-cvsp.com/AgilePruner/",
             "id": 1063785022,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T01:57:40Z",
+            "open_issues": 1,
             "owner": "cvsp-lab",
             "repo": "AgilePruner",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "agilepruner",
+              "attention",
+              "efficiency",
+              "efficient-inference",
+              "hallucination",
+              "iclr2026",
+              "large-vision-language-models",
+              "llava",
+              "lvlm",
+              "multi-modality",
+              "multimodal",
+              "qwen",
+              "token-pruning",
+              "vision-language-model",
+              "visual-token-pruning",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -325,12 +498,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2026] Official code repository for \"⚡️VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration\"",
+            "homepage": null,
             "id": 1145659646,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-17T12:42:28Z",
+            "open_issues": 4,
             "owner": "hanxunyu",
             "repo": "VisionTrim",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "efficiency",
+              "lightweight-vlm",
+              "multimodal",
+              "token-compression"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -341,12 +524,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2026] Official code of PPE: Positional Preservation Embedding for Token Compression in Multimodal Large Language Models.",
+            "homepage": "https://arxiv.org/abs/2510.22936",
             "id": 1148785955,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-16T13:13:48Z",
+            "open_issues": 0,
             "owner": "MouxiaoHuang",
             "repo": "PPE",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "iclr2026",
+              "large-language-models",
+              "multimodal",
+              "positional-encoding",
+              "token-clustering",
+              "token-compression",
+              "token-merging",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         }
@@ -363,12 +560,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[EMNLP 2025 Oral] Official codebase for Seeing More, Saying More: Lightweight Language Experts are Dynamic Video Token Compressors.",
+            "homepage": null,
             "id": 1044063860,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2025-09-07T08:46:27Z",
+            "open_issues": 0,
             "owner": "NIneeeeeem",
             "repo": "LangDC",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         }
@@ -385,12 +587,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2025] AutoPrune, a general pruning method for LLM/VLM/VLA",
+            "homepage": null,
             "id": 1062569151,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-07T08:06:57Z",
+            "open_issues": 1,
             "owner": "AutoLab-SAI-SJTU",
             "repo": "AutoPrune",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "autonomous-driving",
+              "efficient",
+              "llm",
+              "vla",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -401,12 +614,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2025] Efficient Reasoning Vision Language Models",
+            "homepage": null,
             "id": 1021676448,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-18T15:50:43Z",
+            "open_issues": 14,
             "owner": "JIA-Lab-research",
             "repo": "VisionThink",
-            "stars": 464
+            "stars": 464,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -417,12 +635,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2025] Official code for paper: Beyond Attention or Similarity: Maximizing Conditional Diversity for Token Pruning in MLLMs.",
+            "homepage": "http://theia4869.com/CDPruner/",
             "id": 1001096598,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-20T02:23:31Z",
+            "open_issues": 4,
             "owner": "Theia-4869",
             "repo": "CDPruner",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "inference-efficiency",
+              "training-free-acceleration",
+              "vision-language-model",
+              "visual-token-pruning"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -433,12 +661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repository for paper \"FlexSelect: Flexible Token Selection for Efficient Long Video Understanding\".",
+            "homepage": null,
             "id": 987407867,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-09-19T18:28:42Z",
+            "open_issues": 1,
             "owner": "yunzhuzhang0918",
             "repo": "flexselect",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -449,12 +682,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2025] HoliTom: Holistic Token Merging for Fast Video Large Language Models",
+            "homepage": "https://cokeshao.github.io/HoliTom_Web/",
             "id": 988909941,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-10T12:57:30Z",
+            "open_issues": 0,
             "owner": "cokeshao",
             "repo": "HoliTom",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "large-language-models",
+              "llava",
+              "llava-next-video",
+              "multimodal-large-language-models",
+              "token-merging",
+              "token-pruning",
+              "video-large-language-models",
+              "visionzip"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -465,12 +712,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2025] Neural Discrete Token Representation Learning for Extreme Token Reduction in Video Large Language Models",
+            "homepage": null,
             "id": 1061197581,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-19T07:49:51Z",
+            "open_issues": 0,
             "owner": "Hai-chao-Zhang",
             "repo": "VQToken",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -481,12 +733,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2025] FastVID: Dynamic Density Pruning for Fast Video Large Language Models",
+            "homepage": null,
             "id": 947013689,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-10T05:53:31Z",
+            "open_issues": 1,
             "owner": "LunarShen",
             "repo": "FastVID",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         }
@@ -503,12 +760,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025] VFlowOpt: A Token Pruning Framework for LMMs with Visual Information Flow-Guided Optimization",
+            "homepage": null,
             "id": 1033587218,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-29T08:57:00Z",
+            "open_issues": 0,
             "owner": "sihany077",
             "repo": "VFlowOpt",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -519,12 +781,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation (Pytorch) of the \"Representation Shift: Unifying Token Compression with FlashAttention\", ICCV 2025",
+            "homepage": null,
             "id": 1020726392,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-22T11:22:11Z",
+            "open_issues": 0,
             "owner": "mlvlab",
             "repo": "Representation-Shift",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "efficient-vision-transformers",
+              "iccv2025",
+              "token-pruning"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -535,12 +806,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official code for ICCV 2025 paper: METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models",
+            "homepage": null,
             "id": 1019241064,
             "language": null,
+            "license": null,
             "last_commit": "2025-07-14T03:05:58Z",
+            "open_issues": 2,
             "owner": "YuchenLiu98",
             "repo": "METEOR",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -551,12 +827,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025] Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs",
+            "homepage": "https://www.jshyun.me/projects/sttm",
             "id": 1011925961,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-02T08:44:03Z",
+            "open_issues": 5,
             "owner": "HYUNJS",
             "repo": "STTM",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "llm",
+              "videoo"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -567,12 +851,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "skip-vision: efficient and scalable acceleration of vision-language models via adaptive token skipping",
+            "homepage": null,
             "id": 1009954338,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-31T06:08:56Z",
+            "open_issues": 1,
             "owner": "zwl666666",
             "repo": "Skip-Vision",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -583,12 +872,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A benchmark that focuses on the sampling dilemma in long-video tasks. Through well-designed tasks, it evaluates the sampling efficiency of long-video VLMs. (ICCV2025)",
+            "homepage": "https://arxiv.org/abs/2503.12496",
             "id": 956313231,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-07T07:13:32Z",
+            "open_issues": 0,
             "owner": "JIA-Lab-research",
             "repo": "LSDBench",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "benchmark",
+              "long-video-understanding",
+              "multimodal-large-language-models",
+              "reasoning-agent",
+              "sampling-strategies",
+              "video-understanding",
+              "video-understanding-dataset",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -599,12 +902,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation of Paper FOLDER (ICCV2025) and Turbo (ECCV2024)",
+            "homepage": null,
             "id": 890650335,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-27T04:59:35Z",
+            "open_issues": 1,
             "owner": "anakin-skywalker-Joseph",
             "repo": "Folder",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -615,12 +923,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV'25] The official code of paper \"Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models\"",
+            "homepage": "https://thu-nics.github.io/FrameFusion_Project_Page/",
             "id": 909911960,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-13T19:39:23Z",
+            "open_issues": 0,
             "owner": "thu-nics",
             "repo": "FrameFusion",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "efficient-deep-learning",
+              "llm",
+              "lvlm",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -631,12 +949,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025] Dynamic-VLM",
+            "homepage": "https://arxiv.org/abs/2412.09530",
             "id": 856849272,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-16T10:23:11Z",
+            "open_issues": 4,
             "owner": "Hon-Wong",
             "repo": "ByteVideoLLM",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -647,12 +970,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025] Official Implementation for \"Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition\"",
+            "homepage": null,
             "id": 895479363,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-09T13:54:08Z",
+            "open_issues": 4,
             "owner": "JIA-Lab-research",
             "repo": "Lyra",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "efficiency",
+              "multimodal-large-language-model",
+              "omni-language-model",
+              "speech-language-model",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -663,12 +997,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025] Official code for \"AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning\"",
+            "homepage": null,
             "id": 898238616,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-09T03:41:02Z",
+            "open_issues": 0,
             "owner": "LaVi-Lab",
             "repo": "AIM",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -679,12 +1018,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025] Official code for paper: Beyond Text-Visual Attention: Exploiting Visual Cues for Effective Token Pruning in VLMs",
+            "homepage": "http://theia4869.com/VisPruner/",
             "id": 1007546796,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-01T07:00:17Z",
+            "open_issues": 10,
             "owner": "Theia-4869",
             "repo": "VisPruner",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "inference-efficiency",
+              "training-free-acceleration",
+              "vision-language-model",
+              "visual-token-pruning"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -695,12 +1044,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV'25] HERMES: temporal-coHERent long-forM understanding with Episodes and Semantics",
+            "homepage": "https://joslefaure.github.io/assets/html/hermes.html",
             "id": 850900594,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-10T14:47:33Z",
+            "open_issues": 0,
             "owner": "joslefaure",
             "repo": "HERMES",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "artificial-intelligence",
+              "computer-vision",
+              "iccv2025",
+              "large-language-models",
+              "llm",
+              "long-form-video-language-understanding",
+              "video-understanding"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -711,12 +1073,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models",
+            "homepage": null,
             "id": 776976445,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-08T21:20:00Z",
+            "open_issues": 21,
             "owner": "42Shawn",
             "repo": "LLaVA-PruMerge",
-            "stars": 176
+            "stars": 176,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         }
@@ -733,12 +1100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 986303691,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-03T07:22:50Z",
+            "open_issues": 3,
             "owner": "EffiVLM-Bench",
             "repo": "EffiVLM-Bench",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -749,12 +1121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch implementation for \"MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens\" (ACL 2025 Findings)",
+            "homepage": "http://arxiv.org/abs/2503.11315",
             "id": 910728577,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-12T15:08:40Z",
+            "open_issues": 2,
             "owner": "JeongHun0716",
             "repo": "MMS-LLaMA",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -765,12 +1142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NAACL 2025🔥] MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference",
+            "homepage": null,
             "id": 920932939,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-19T15:46:56Z",
+            "open_issues": 3,
             "owner": "AIoT-MLSys-Lab",
             "repo": "MEDA",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -781,12 +1163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2025] PruneVid: Visual Token Pruning for Efficient Video Large Language Models",
+            "homepage": null,
             "id": 903621853,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-15T14:03:37Z",
+            "open_issues": 2,
             "owner": "Visual-AI",
             "repo": "PruneVid",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -797,12 +1184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NAACL 2025 Main Selected Oral] Repository for the paper: Prompt Compression for Large Language Models: A Survey",
+            "homepage": null,
             "id": 857948256,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-18T13:33:13Z",
+            "open_issues": 2,
             "owner": "ZongqianLi",
             "repo": "Prompt-Compression-Survey",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         }
@@ -819,12 +1211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML 2025] CoreMatching: Co-adaptive Sparse Inference Framework for Comprehensive Acceleration of Vision Language Model",
+            "homepage": null,
             "id": 989750503,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-27T02:50:14Z",
+            "open_issues": 2,
             "owner": "wangqinsi1",
             "repo": "2025-ICML-CoreMatching",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -835,12 +1232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The demo page for ALMTokenizer",
+            "homepage": null,
             "id": 965921707,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-14T08:46:55Z",
+            "open_issues": 4,
             "owner": "yangdongchao",
             "repo": "ALMTokenizer",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -851,12 +1253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML 2025] Official repository for paper \"Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation\"",
+            "homepage": "https://arxiv.org/abs/2504.02438",
             "id": 949781519,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-23T09:16:58Z",
+            "open_issues": 8,
             "owner": "steven-ccq",
             "repo": "ViLAMP",
-            "stars": 195
+            "stars": 195,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -867,12 +1274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML 2025] Official PyTorch implementation of LongVU",
+            "homepage": "https://vision-cair.github.io/LongVU",
             "id": 873773861,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-08T22:46:31Z",
+            "open_issues": 34,
             "owner": "Vision-CAIR",
             "repo": "LongVU",
-            "stars": 433
+            "stars": 433,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         },
@@ -883,12 +1295,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML'25][TPAMI'26] Official implementation of paper \"SparseVLM\" and \"SparseVLM+\".",
+            "homepage": "https://arxiv.org/pdf/2410.04417",
             "id": 867423767,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-30T11:23:52Z",
+            "open_issues": 9,
             "owner": "Gumpest",
             "repo": "SparseVLMs",
-            "stars": 276
+            "stars": 276,
+            "topics": [
+              "efficiency",
+              "sparsevlm",
+              "sparsevlm-plus",
+              "sparsification",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         }
@@ -905,12 +1328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACM MM 2025] TimeChat-online: 80% Visual Tokens are Naturally Redundant in Streaming Videos",
+            "homepage": null,
             "id": 969947727,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-29T07:53:52Z",
+            "open_issues": 5,
             "owner": "yaolinli",
             "repo": "TimeChat-Online",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
         }
@@ -919,15 +1347,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:05:43.334Z",
+    "last_updated": "2026-08-29T04:47:07.604Z",
     "original_repository_info": {
       "archived": false,
+      "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
+      "homepage": null,
       "id": 1012436800,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-07-27T06:44:45Z",
+      "open_issues": 3,
       "owner": "cokeshao",
       "repo": "Awesome-Multimodal-Token-Compression",
-      "stars": 387
+      "stars": 387,
+      "topics": [
+        "awesome-list",
+        "efficient-ai",
+        "efficient-mllm",
+        "long-context",
+        "mllm",
+        "model-acceleration",
+        "token-compression"
+      ]
     },
     "original_repository_sha": "08d2389109b48f724176078d67e4dae53cf5c0ce",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Token-Compression",
