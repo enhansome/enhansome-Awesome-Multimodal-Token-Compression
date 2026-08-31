@@ -346,7 +346,7 @@
             "open_issues": 3,
             "owner": "KD-TAO",
             "repo": "OmniZip",
-            "stars": 105,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
@@ -421,7 +421,7 @@
             "open_issues": 3,
             "owner": "KD-TAO",
             "repo": "OmniZip",
-            "stars": 105,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
@@ -623,7 +623,7 @@
             "open_issues": 14,
             "owner": "JIA-Lab-research",
             "repo": "VisionThink",
-            "stars": 464,
+            "stars": 465,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:43.334Z"
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:47:52.801Z",
+    "last_updated": "2026-08-31T21:03:23.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
