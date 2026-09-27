@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![arXiv](https://img.shields.io/badge/arXiv-2507.20198-red.svg)](https://arxiv.org/abs/2507.20198)
-[![Last Commit](https://img.shields.io/github/last-commit/cokeshao/Awesome-Multimodal-Token-Compression.svg?style=flat\&color=orange)](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression) ⭐ 393 | 🐛 4 | 📅 2026-07-27
+[![Last Commit](https://img.shields.io/github/last-commit/cokeshao/Awesome-Multimodal-Token-Compression.svg?style=flat\&color=orange)](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression) ⭐ 394 | 🐛 4 | 📅 2026-07-27
 
 [\[arXiv\]](https://arxiv.org/abs/2507.20198) [\[HuggingFace\]](https://huggingface.co/papers/2507.20198) [\[Database\]](https://oasis-paddleboat-fc1.notion.site/when-tokens-talk-too-much-database)
 
@@ -31,7 +31,7 @@ If you find our paper or this resource helpful, please consider cite:
 ```
 
 > \[!IMPORTANT]
-> We welcome your help in improving the repository and paper. Please feel free to submit a [pull request](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/pulls) ⭐ 393 | 🐛 4 | 📅 2026-07-27 or [contact us](#️-contact) to:
+> We welcome your help in improving the repository and paper. Please feel free to submit a [pull request](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/pulls) ⭐ 394 | 🐛 4 | 📅 2026-07-27 or [contact us](#️-contact) to:
 >
 > * Add a relevant paper not yet included.
 >
@@ -64,11 +64,11 @@ If you find our paper or this resource helpful, please consider cite:
 ## 📚 Contents
 
 * [Awesome Token Compression](#awesome-multimodal-token-compression)
-  * [Image LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/image-llm.md) ⭐ 393 | 🐛 4 | 📅 2026-07-27
-  * [Video LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/video-llm.md) ⭐ 393 | 🐛 4 | 📅 2026-07-27
-  * [Audio LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-llm.md) ⭐ 393 | 🐛 4 | 📅 2026-07-27
-  * [Vision Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/vision-transformer.md) ⭐ 393 | 🐛 4 | 📅 2026-07-27
-  * [Audio Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-transformer.md) ⭐ 393 | 🐛 4 | 📅 2026-07-27
+  * [Image LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/image-llm.md) ⭐ 394 | 🐛 4 | 📅 2026-07-27
+  * [Video LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/video-llm.md) ⭐ 394 | 🐛 4 | 📅 2026-07-27
+  * [Audio LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-llm.md) ⭐ 394 | 🐛 4 | 📅 2026-07-27
+  * [Vision Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/vision-transformer.md) ⭐ 394 | 🐛 4 | 📅 2026-07-27
+  * [Audio Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-transformer.md) ⭐ 394 | 🐛 4 | 📅 2026-07-27
 
 **Please check out all the papers by selecting the sub-area you're interested in. On this main page, only papers released in the past 6 months are shown.**
 
@@ -153,7 +153,7 @@ If you find our paper or this resource helpful, please consider cite:
 | [![Publish](https://img.shields.io/badge/CVPR-2026-blue)]() <br>[MeToM: Metadata-Guided Token Merging for Efficient Video LLMs](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_MeToM_Metadata-Guided_Token_Merging_for_Efficient_Video_LLMs_CVPR_2026_paper.pdf)<br>Zhuojie Wu, Shijie Wang, Xin Yu                                                                                                                                                                  | [![Area](https://img.shields.io/badge/Video--LLM-purple)]()                                                                        | [![Type](https://img.shields.io/badge/Attention--Based-green)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]()<br> [![Cost](https://img.shields.io/badge/Training--Free-yellow)]() |                                      [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_MeToM_Metadata-Guided_Token_Merging_for_Efficient_Video_LLMs_CVPR_2026_paper.pdf)<br>                                     |
 | [![Publish](https://img.shields.io/badge/CVPR-2026-blue)]() [![Star](https://img.shields.io/github/stars/lern-to-write/STC.svg?style=social\&label=Star)](https://github.com/lern-to-write/STC) ⭐ 78 \| 🐛 6 \| 🌐 Python \| 📅 2026-06-08<br>[Accelerating Streaming Video Large Language Models via Hierarchical Token Compression](https://arxiv.org/abs/2512.00891)<br>Yiyu Wang, Xuyang Liu, Xiyan Gui, Xinying Lin, Boxue Yang, Chenfei Liao, Tailai Chen, Linfeng Zhang | [![Area](https://img.shields.io/badge/Video--LLM-purple)]() [![Area](https://img.shields.io/badge/Streaming--Video--LLM-purple)]() | [![Cost](https://img.shields.io/badge/Training--Free-yellow)]()                                                                                                                                        |                                           [Paper](https://arxiv.org/abs/2512.00891)<br> [GitHub](https://github.com/lern-to-write/STC) ⭐ 78 \| 🐛 6 \| 🌐 Python \| 📅 2026-06-08<br>                                           |
 | [![Publish](https://img.shields.io/badge/CVPR-2026-blue)]() [![Star](https://img.shields.io/github/stars/KD-TAO/OmniZip.svg?style=social\&label=Star)](https://github.com/KD-TAO/OmniZip) ⭐ 109 \| 🐛 4 \| 🌐 Python \| 📅 2026-04-20<br>[OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models](https://arxiv.org/abs/2511.14582)<br>Keda Tao, Kele Shao, Bohan Yu, Weiqiang Wang, Jian liu, Huan Wang                                     | [![Area](https://img.shields.io/badge/Omni--LLM-purple)]()                                                                         | [![Type](https://img.shields.io/badge/Attention--Based-green)]()<br> [![Cost](https://img.shields.io/badge/Training--Free-yellow)]()                                                                   |                                            [Paper](https://arxiv.org/abs/2511.14582)<br> [GitHub](https://github.com/KD-TAO/OmniZip) ⭐ 109 \| 🐛 4 \| 🌐 Python \| 📅 2026-04-20<br>                                            |
-| [![Publish](https://img.shields.io/badge/CVPR-2026-blue)]() [![Star](https://img.shields.io/github/stars/YIGE24/StreamingTOM.svg?style=social\&label=Star)](https://github.com/YIGE24/StreamingTOM) ⭐ 30 \| 🐛 2 \| 🌐 Python \| 📅 2026-03-05<br>[StreamingTOM: Streaming Token Compression for Efficient Video Understanding](https://arxiv.org/abs/2510.18269)<br>Xueyi Chen, Keda Tao, Kele Shao, Huan Wang                                                                | [![Area](https://img.shields.io/badge/Video--LLM-purple)]() [![Area](https://img.shields.io/badge/Streaming--Video--LLM-purple)]() | [![Type](https://img.shields.io/badge/Attention--Based-green)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]()<br> [![Cost](https://img.shields.io/badge/Training--Free-yellow)]() |                                          [Paper](https://arxiv.org/abs/2510.18269)<br> [GitHub](https://github.com/YIGE24/StreamingTOM) ⭐ 30 \| 🐛 2 \| 🌐 Python \| 📅 2026-03-05<br>                                          |
+| [![Publish](https://img.shields.io/badge/CVPR-2026-blue)]() [![Star](https://img.shields.io/github/stars/YIGE24/StreamingTOM.svg?style=social\&label=Star)](https://github.com/YIGE24/StreamingTOM) ⭐ 31 \| 🐛 2 \| 🌐 Python \| 📅 2026-03-05<br>[StreamingTOM: Streaming Token Compression for Efficient Video Understanding](https://arxiv.org/abs/2510.18269)<br>Xueyi Chen, Keda Tao, Kele Shao, Huan Wang                                                                | [![Area](https://img.shields.io/badge/Video--LLM-purple)]() [![Area](https://img.shields.io/badge/Streaming--Video--LLM-purple)]() | [![Type](https://img.shields.io/badge/Attention--Based-green)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]()<br> [![Cost](https://img.shields.io/badge/Training--Free-yellow)]() |                                          [Paper](https://arxiv.org/abs/2510.18269)<br> [GitHub](https://github.com/YIGE24/StreamingTOM) ⭐ 31 \| 🐛 2 \| 🌐 Python \| 📅 2026-03-05<br>                                          |
 
 </details>
 
@@ -271,7 +271,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-This repository is inspired by [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) ⭐ 321 | 🐛 0 | 🌐 Python | 📅 2026-06-26, [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM/) ⭐ 2,043 | 🐛 11 | 🌐 Python | 📅 2025-06-17, [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ⭐ 3,311 | 🐛 72 | 📅 2026-05-28
+This repository is inspired by [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) ⭐ 321 | 🐛 0 | 🌐 Python | 📅 2026-06-26, [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM/) ⭐ 2,043 | 🐛 11 | 🌐 Python | 📅 2025-06-17, [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ⭐ 3,312 | 🐛 72 | 📅 2026-05-28
 
 ## 🧑‍💻 Contributors
 
@@ -295,4 +295,4 @@ For questions, suggestions, or collaboration opportunities, please feel free to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
