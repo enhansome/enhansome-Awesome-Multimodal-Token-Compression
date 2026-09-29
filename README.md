@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![arXiv](https://img.shields.io/badge/arXiv-2507.20198-red.svg)](https://arxiv.org/abs/2507.20198)
-[![Last Commit](https://img.shields.io/github/last-commit/cokeshao/Awesome-Multimodal-Token-Compression.svg?style=flat\&color=orange)](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression) ⭐ 394 | 🐛 4 | 📅 2026-07-27
+[![Last Commit](https://img.shields.io/github/last-commit/cokeshao/Awesome-Multimodal-Token-Compression.svg?style=flat\&color=orange)](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression) ⭐ 395 | 🐛 4 | 📅 2026-07-27
 
 [\[arXiv\]](https://arxiv.org/abs/2507.20198) [\[HuggingFace\]](https://huggingface.co/papers/2507.20198) [\[Database\]](https://oasis-paddleboat-fc1.notion.site/when-tokens-talk-too-much-database)
 
@@ -31,7 +31,7 @@ If you find our paper or this resource helpful, please consider cite:
 ```
 
 > \[!IMPORTANT]
-> We welcome your help in improving the repository and paper. Please feel free to submit a [pull request](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/pulls) ⭐ 394 | 🐛 4 | 📅 2026-07-27 or [contact us](#️-contact) to:
+> We welcome your help in improving the repository and paper. Please feel free to submit a [pull request](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/pulls) ⭐ 395 | 🐛 4 | 📅 2026-07-27 or [contact us](#️-contact) to:
 >
 > * Add a relevant paper not yet included.
 >
@@ -64,11 +64,11 @@ If you find our paper or this resource helpful, please consider cite:
 ## 📚 Contents
 
 * [Awesome Token Compression](#awesome-multimodal-token-compression)
-  * [Image LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/image-llm.md) ⭐ 394 | 🐛 4 | 📅 2026-07-27
-  * [Video LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/video-llm.md) ⭐ 394 | 🐛 4 | 📅 2026-07-27
-  * [Audio LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-llm.md) ⭐ 394 | 🐛 4 | 📅 2026-07-27
-  * [Vision Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/vision-transformer.md) ⭐ 394 | 🐛 4 | 📅 2026-07-27
-  * [Audio Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-transformer.md) ⭐ 394 | 🐛 4 | 📅 2026-07-27
+  * [Image LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/image-llm.md) ⭐ 395 | 🐛 4 | 📅 2026-07-27
+  * [Video LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/video-llm.md) ⭐ 395 | 🐛 4 | 📅 2026-07-27
+  * [Audio LLM](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-llm.md) ⭐ 395 | 🐛 4 | 📅 2026-07-27
+  * [Vision Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/vision-transformer.md) ⭐ 395 | 🐛 4 | 📅 2026-07-27
+  * [Audio Transformer](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio-transformer.md) ⭐ 395 | 🐛 4 | 📅 2026-07-27
 
 **Please check out all the papers by selecting the sub-area you're interested in. On this main page, only papers released in the past 6 months are shown.**
 
@@ -246,7 +246,7 @@ If you find our paper or this resource helpful, please consider cite:
 | [![Publish](https://img.shields.io/badge/ICML-2025-blue)]() [![Star](https://img.shields.io/github/stars/yangdongchao/ALMTokenizer.svg?style=social\&label=Star)](https://github.com/yangdongchao/ALMTokenizer) ⭐ 59 \| 🐛 4 \| 🌐 Python \| 📅 2025-04-14<br>[ALMTokenizer: A Low-bitrate and Semantic-rich Audio Codec Tokenizer for Audio Language Modeling](https://arxiv.org/abs/2504.10344)<br>Dongchao Yang, Songxiang Liu, Haohan Guo, Jiankun Zhao, Yuanyuan Wang, Helin Wang, Zeqian Ju, Xubo Liu, Xueyuan Chen, Xu Tan, Xixin Wu, Helen Meng                                                                                    | [![Area](https://img.shields.io/badge/Audio--Transformer-purple)]()                                                     | [![Type](https://img.shields.io/badge/Query--Based-green)]()<br> [![Cost](https://img.shields.io/badge/Training--Based-yellow)]()                                                                   |                                             [Paper](https://arxiv.org/abs/2504.10344)<br> [GitHub](https://github.com/yangdongchao/ALMTokenizer) ⭐ 59 \| 🐛 4 \| 🌐 Python \| 📅 2025-04-14<br>                                            |
 | [![Publish](https://img.shields.io/badge/ICML-2025-blue)]() [![Star](https://img.shields.io/github/stars/steven-ccq/ViLAMP.svg?style=social\&label=Star)](https://github.com/steven-ccq/ViLAMP) ⭐ 195 \| 🐛 8 \| 🌐 Python \| 📅 2025-09-23<br>[Scaling Video-Language Models to 10K Frames via Hierarchical Differential Distillation](https://arxiv.org/abs/2504.02438)<br>Chuanqi Cheng, Jian Guan, Wei Wu, Rui Yan                                                                                                                                                                                                                     | [![Area](https://img.shields.io/badge/Video--LLM-purple)]()                                                             | [![Type](https://img.shields.io/badge/Query--Based-green)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]()<br> [![Cost](https://img.shields.io/badge/Training--Based-yellow)]() |                [Paper](https://arxiv.org/abs/2504.02438)<br> [GitHub](https://github.com/steven-ccq/ViLAMP) ⭐ 195 \| 🐛 8 \| 🌐 Python \| 📅 2025-09-23<br> [Model](https://huggingface.co/orange-sk/ViLAMP-llava-qwen)<br>                |
 | [![Publish](https://img.shields.io/badge/ICML-2025-blue)]() [![Star](https://img.shields.io/github/stars/Vision-CAIR/LongVU.svg?style=social\&label=Star)](https://github.com/Vision-CAIR/LongVU) ⭐ 434 \| 🐛 34 \| 🌐 Python \| 📅 2025-05-08<br>[LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding](https://arxiv.org/abs/2410.17434)<br>Xiaoqian Shen, Yunyang Xiong, Changsheng Zhao, Lemeng Wu, Jun Chen, Chenchen Zhu, Zechun Liu, Fanyi Xiao, Balakrishnan Varadarajan, Florian Bordes, Zhuang Liu, Hu Xu, Hyunwoo J. Kim, Bilge Soran, Raghuraman Krishnamoorthi, Mohamed Elhoseiny, Vikas Chandra | [![Area](https://img.shields.io/badge/Video--LLM-purple)]()                                                             | [![Type](https://img.shields.io/badge/Query--Based-green)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]()<br> [![Cost](https://img.shields.io/badge/Training--Based-yellow)]() | [Paper](https://arxiv.org/abs/2410.17434)<br> [GitHub](https://github.com/Vision-CAIR/LongVU) ⭐ 434 \| 🐛 34 \| 🌐 Python \| 📅 2025-05-08<br> [Model](https://huggingface.co/collections/Vision-CAIR/longvu-67181d2debabfc1eb050c21d)<br> |
-| [![Publish](https://img.shields.io/badge/ICML-2025-blue)]() [![Star](https://img.shields.io/github/stars/Gumpest/SparseVLMs.svg?style=social\&label=Star)](https://github.com/Gumpest/SparseVLMs) ⭐ 278 \| 🐛 9 \| 🌐 Python \| 📅 2026-07-30<br>[SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference](https://arxiv.org/abs/2410.04417)<br>Yuan Zhang, Chun-Kai Fan, Junpeng Ma, Wenzhao Zheng, Tao Huang, Kuan Cheng, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Shanghang Zhang                                                                                                      | [![Area](https://img.shields.io/badge/Image--LLM-purple)]() [![Area](https://img.shields.io/badge/Video--LLM-purple)]() | [![Type](https://img.shields.io/badge/Attention--Based-green)]() [![Type](https://img.shields.io/badge/Query--Based-green)]()<br> [![Cost](https://img.shields.io/badge/Training--Free-yellow)]()   |                                                [Paper](https://arxiv.org/abs/2410.04417)<br> [GitHub](https://github.com/Gumpest/SparseVLMs) ⭐ 278 \| 🐛 9 \| 🌐 Python \| 📅 2026-07-30<br>                                               |
+| [![Publish](https://img.shields.io/badge/ICML-2025-blue)]() [![Star](https://img.shields.io/github/stars/Gumpest/SparseVLMs.svg?style=social\&label=Star)](https://github.com/Gumpest/SparseVLMs) ⭐ 279 \| 🐛 9 \| 🌐 Python \| 📅 2026-07-30<br>[SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference](https://arxiv.org/abs/2410.04417)<br>Yuan Zhang, Chun-Kai Fan, Junpeng Ma, Wenzhao Zheng, Tao Huang, Kuan Cheng, Denis Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Shanghang Zhang                                                                                                      | [![Area](https://img.shields.io/badge/Image--LLM-purple)]() [![Area](https://img.shields.io/badge/Video--LLM-purple)]() | [![Type](https://img.shields.io/badge/Attention--Based-green)]() [![Type](https://img.shields.io/badge/Query--Based-green)]()<br> [![Cost](https://img.shields.io/badge/Training--Free-yellow)]()   |                                                [Paper](https://arxiv.org/abs/2410.04417)<br> [GitHub](https://github.com/Gumpest/SparseVLMs) ⭐ 279 \| 🐛 9 \| 🌐 Python \| 📅 2026-07-30<br>                                               |
 
 </details>
 
@@ -271,7 +271,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-This repository is inspired by [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) ⭐ 321 | 🐛 0 | 🌐 Python | 📅 2026-06-26, [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM/) ⭐ 2,043 | 🐛 11 | 🌐 Python | 📅 2025-06-17, [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ⭐ 3,312 | 🐛 72 | 📅 2026-05-28
+This repository is inspired by [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) ⭐ 321 | 🐛 0 | 🌐 Python | 📅 2026-06-26, [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM/) ⭐ 2,043 | 🐛 11 | 🌐 Python | 📅 2025-06-17, [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ⭐ 3,316 | 🐛 72 | 📅 2026-05-28
 
 ## 🧑‍💻 Contributors
 
@@ -295,4 +295,4 @@ For questions, suggestions, or collaboration opportunities, please feel free to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
