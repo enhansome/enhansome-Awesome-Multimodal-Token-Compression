@@ -173,7 +173,7 @@
                     "open_issues": 0,
                     "owner": "dingyue772",
                     "repo": "OmniSIFT",
-                    "stars": 30,
+                    "stars": 31,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -191,7 +191,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-04-20T05:21:26Z",
-                    "open_issues": 4,
+                    "open_issues": 3,
                     "owner": "KD-TAO",
                     "repo": "OmniZip",
                     "stars": 109,
@@ -275,7 +275,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-04-20T05:21:26Z",
-                    "open_issues": 4,
+                    "open_issues": 3,
                     "owner": "KD-TAO",
                     "repo": "OmniZip",
                     "stars": 109,
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:26:28.320Z",
+    "last_updated": "2026-10-03T18:49:00.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
@@ -1233,7 +1233,7 @@
       "open_issues": 4,
       "owner": "cokeshao",
       "repo": "Awesome-Multimodal-Token-Compression",
-      "stars": 397,
+      "stars": 398,
       "topics": [
         "awesome-list",
         "efficient-ai",
