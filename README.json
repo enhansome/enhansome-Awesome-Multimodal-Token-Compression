@@ -1167,7 +1167,7 @@
                     "open_issues": 8,
                     "owner": "Gumpest",
                     "repo": "SparseVLMs",
-                    "stars": 280,
+                    "stars": 281,
                     "topics": [
                       "efficiency",
                       "sparsevlm",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:49:00.769Z",
+    "last_updated": "2026-10-04T18:46:29.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
