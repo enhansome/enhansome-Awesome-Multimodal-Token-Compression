@@ -785,11 +785,11 @@
                   "repo_info": {
                     "archived": false,
                     "description": "[ICCV'25] The official code of paper \"Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models\"",
-                    "homepage": "https://thu-nics.github.io/FrameFusion_Project_Page/",
+                    "homepage": "https://fuvty.github.io/thinking_yard_project_page/projects/framefusion/",
                     "id": 909911960,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-01-13T19:39:23Z",
+                    "last_commit": "2026-10-09T05:37:32Z",
                     "open_issues": 0,
                     "owner": "thu-nics",
                     "repo": "FrameFusion",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:47:57.560Z",
+    "last_updated": "2026-10-09T20:18:47.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
