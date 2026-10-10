@@ -840,7 +840,7 @@
                     "open_issues": 4,
                     "owner": "JIA-Lab-research",
                     "repo": "Lyra",
-                    "stars": 308,
+                    "stars": 307,
                     "topics": [
                       "efficiency",
                       "multimodal-large-language-model",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:18:47.952Z",
+    "last_updated": "2026-10-10T19:29:28.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
@@ -1233,7 +1233,7 @@
       "open_issues": 4,
       "owner": "cokeshao",
       "repo": "Awesome-Multimodal-Token-Compression",
-      "stars": 398,
+      "stars": 400,
       "topics": [
         "awesome-list",
         "efficient-ai",
