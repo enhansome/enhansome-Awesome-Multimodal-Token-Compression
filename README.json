@@ -139,7 +139,7 @@
                     "id": 1243510961,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-14T08:27:32Z",
+                    "last_commit": "2026-10-11T18:23:39Z",
                     "open_issues": 0,
                     "owner": "xxayt",
                     "repo": "SEATS",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:29:28.574Z",
+    "last_updated": "2026-10-11T19:41:30.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
@@ -1233,7 +1233,7 @@
       "open_issues": 4,
       "owner": "cokeshao",
       "repo": "Awesome-Multimodal-Token-Compression",
-      "stars": 400,
+      "stars": 401,
       "topics": [
         "awesome-list",
         "efficient-ai",
