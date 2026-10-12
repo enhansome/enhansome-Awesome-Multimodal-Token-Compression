@@ -143,7 +143,7 @@
                     "open_issues": 0,
                     "owner": "xxayt",
                     "repo": "SEATS",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": [
                       "audio-visual",
                       "efficiency",
@@ -194,7 +194,7 @@
                     "open_issues": 3,
                     "owner": "KD-TAO",
                     "repo": "OmniZip",
-                    "stars": 109,
+                    "stars": 108,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -278,7 +278,7 @@
                     "open_issues": 3,
                     "owner": "KD-TAO",
                     "repo": "OmniZip",
-                    "stars": 109,
+                    "stars": 108,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -299,7 +299,7 @@
                     "open_issues": 2,
                     "owner": "YIGE24",
                     "repo": "StreamingTOM",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -456,7 +456,7 @@
                     "open_issues": 1,
                     "owner": "AutoLab-SAI-SJTU",
                     "repo": "AutoPrune",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": [
                       "autonomous-driving",
                       "efficient",
@@ -504,7 +504,7 @@
                     "open_issues": 4,
                     "owner": "Theia-4869",
                     "repo": "CDPruner",
-                    "stars": 110,
+                    "stars": 111,
                     "topics": [
                       "inference-efficiency",
                       "training-free-acceleration",
@@ -1167,7 +1167,7 @@
                     "open_issues": 8,
                     "owner": "Gumpest",
                     "repo": "SparseVLMs",
-                    "stars": 282,
+                    "stars": 283,
                     "topics": [
                       "efficiency",
                       "sparsevlm",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:41:30.006Z",
+    "last_updated": "2026-10-12T22:35:05.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
