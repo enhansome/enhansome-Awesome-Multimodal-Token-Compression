@@ -1034,7 +1034,7 @@
                     "open_issues": 2,
                     "owner": "Visual-AI",
                     "repo": "PruneVid",
-                    "stars": 72,
+                    "stars": 73,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -1125,7 +1125,7 @@
                     "open_issues": 8,
                     "owner": "steven-ccq",
                     "repo": "ViLAMP",
-                    "stars": 195,
+                    "stars": 194,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:35:05.825Z",
+    "last_updated": "2026-10-13T20:48:22.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
