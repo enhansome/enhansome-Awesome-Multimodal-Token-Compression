@@ -501,7 +501,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-09-20T02:23:31Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "Theia-4869",
                     "repo": "CDPruner",
                     "stars": 111,
@@ -1201,7 +1201,7 @@
                     "open_issues": 5,
                     "owner": "yaolinli",
                     "repo": "TimeChat-Online",
-                    "stars": 133,
+                    "stars": 134,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:59:22.516Z",
+    "last_updated": "2026-10-17T17:55:17.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
@@ -1230,7 +1230,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-07-27T06:44:45Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "cokeshao",
       "repo": "Awesome-Multimodal-Token-Compression",
       "stars": 402,
