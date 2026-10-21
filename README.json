@@ -173,7 +173,7 @@
                     "open_issues": 0,
                     "owner": "dingyue772",
                     "repo": "OmniSIFT",
-                    "stars": 31,
+                    "stars": 32,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:33:30.583Z",
+    "last_updated": "2026-10-21T19:33:42.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
