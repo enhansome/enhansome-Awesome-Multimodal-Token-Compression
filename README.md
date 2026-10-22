@@ -271,7 +271,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-This repository is inspired by [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) ⭐ 324 | 🐛 0 | 🌐 Python | 📅 2026-10-20, [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM/) ⭐ 2,047 | 🐛 12 | 🌐 Python | 📅 2025-06-17, [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ⭐ 3,329 | 🐛 75 | 📅 2026-05-28
+This repository is inspired by [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) ⭐ 324 | 🐛 0 | 🌐 Python | 📅 2026-10-20, [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM/) ⭐ 2,047 | 🐛 13 | 🌐 Python | 📅 2025-06-17, [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ⭐ 3,330 | 🐛 75 | 📅 2026-05-28
 
 ## 🧑‍💻 Contributors
 
@@ -295,4 +295,4 @@ For questions, suggestions, or collaboration opportunities, please feel free to 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
