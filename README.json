@@ -23,7 +23,7 @@
                     "open_issues": 0,
                     "owner": "Zyvpeng",
                     "repo": "VisCo",
-                    "stars": 14,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -229,7 +229,7 @@
                     "open_issues": 0,
                     "owner": "Zyvpeng",
                     "repo": "VisCo",
-                    "stars": 14,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -504,7 +504,7 @@
                     "open_issues": 5,
                     "owner": "Theia-4869",
                     "repo": "CDPruner",
-                    "stars": 111,
+                    "stars": 112,
                     "topics": [
                       "inference-efficiency",
                       "training-free-acceleration",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:26:43.233Z",
+    "last_updated": "2026-10-23T19:31:26.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
