@@ -23,7 +23,7 @@
                     "open_issues": 0,
                     "owner": "Zyvpeng",
                     "repo": "VisCo",
-                    "stars": 26,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -44,7 +44,7 @@
                     "open_issues": 2,
                     "owner": "cvsp-lab",
                     "repo": "AgilePruner",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": [
                       "agilepruner",
                       "attention",
@@ -229,7 +229,7 @@
                     "open_issues": 0,
                     "owner": "Zyvpeng",
                     "repo": "VisCo",
-                    "stars": 26,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -327,7 +327,7 @@
                     "open_issues": 2,
                     "owner": "cvsp-lab",
                     "repo": "AgilePruner",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": [
                       "agilepruner",
                       "attention",
@@ -530,7 +530,7 @@
                     "open_issues": 1,
                     "owner": "yunzhuzhang0918",
                     "repo": "flexselect",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -940,7 +940,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-03-08T21:20:00Z",
-                    "open_issues": 21,
+                    "open_issues": 22,
                     "owner": "42Shawn",
                     "repo": "LLaVA-PruMerge",
                     "stars": 177,
@@ -1167,7 +1167,7 @@
                     "open_issues": 8,
                     "owner": "Gumpest",
                     "repo": "SparseVLMs",
-                    "stars": 285,
+                    "stars": 286,
                     "topics": [
                       "efficiency",
                       "sparsevlm",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:32:16.644Z",
+    "last_updated": "2026-10-26T20:43:42.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
@@ -1233,7 +1233,7 @@
       "open_issues": 6,
       "owner": "cokeshao",
       "repo": "Awesome-Multimodal-Token-Compression",
-      "stars": 402,
+      "stars": 404,
       "topics": [
         "awesome-list",
         "efficient-ai",
