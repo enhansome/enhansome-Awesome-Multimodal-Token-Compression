@@ -23,7 +23,7 @@
                     "open_issues": 0,
                     "owner": "Zyvpeng",
                     "repo": "VisCo",
-                    "stars": 43,
+                    "stars": 48,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -229,7 +229,7 @@
                     "open_issues": 0,
                     "owner": "Zyvpeng",
                     "repo": "VisCo",
-                    "stars": 43,
+                    "stars": 48,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -867,7 +867,7 @@
                     "open_issues": 0,
                     "owner": "LaVi-Lab",
                     "repo": "AIM",
-                    "stars": 65,
+                    "stars": 66,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:31:19.670Z",
+    "last_updated": "2026-10-29T20:32:35.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
