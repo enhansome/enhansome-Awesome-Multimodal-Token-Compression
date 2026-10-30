@@ -23,7 +23,7 @@
                     "open_issues": 0,
                     "owner": "Zyvpeng",
                     "repo": "VisCo",
-                    "stars": 48,
+                    "stars": 52,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -229,7 +229,7 @@
                     "open_issues": 0,
                     "owner": "Zyvpeng",
                     "repo": "VisCo",
-                    "stars": 48,
+                    "stars": 52,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -391,7 +391,7 @@
                     "open_issues": 0,
                     "owner": "MouxiaoHuang",
                     "repo": "PPE",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": [
                       "iclr2026",
                       "large-language-models",
@@ -1167,7 +1167,7 @@
                     "open_issues": 8,
                     "owner": "Gumpest",
                     "repo": "SparseVLMs",
-                    "stars": 286,
+                    "stars": 288,
                     "topics": [
                       "efficiency",
                       "sparsevlm",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:32:35.383Z",
+    "last_updated": "2026-10-30T20:06:05.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
