@@ -23,7 +23,7 @@
                     "open_issues": 0,
                     "owner": "Zyvpeng",
                     "repo": "VisCo",
-                    "stars": 52,
+                    "stars": 60,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -229,7 +229,7 @@
                     "open_issues": 0,
                     "owner": "Zyvpeng",
                     "repo": "VisCo",
-                    "stars": 52,
+                    "stars": 60,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -793,7 +793,7 @@
                     "open_issues": 0,
                     "owner": "thu-nics",
                     "repo": "FrameFusion",
-                    "stars": 81,
+                    "stars": 82,
                     "topics": [
                       "efficient-deep-learning",
                       "llm",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:06:05.809Z",
+    "last_updated": "2026-10-31T19:31:13.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
