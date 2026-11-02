@@ -23,7 +23,7 @@
                     "open_issues": 0,
                     "owner": "Zyvpeng",
                     "repo": "VisCo",
-                    "stars": 62,
+                    "stars": 65,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -44,7 +44,7 @@
                     "open_issues": 2,
                     "owner": "cvsp-lab",
                     "repo": "AgilePruner",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": [
                       "agilepruner",
                       "attention",
@@ -229,7 +229,7 @@
                     "open_issues": 0,
                     "owner": "Zyvpeng",
                     "repo": "VisCo",
-                    "stars": 62,
+                    "stars": 65,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -327,7 +327,7 @@
                     "open_issues": 2,
                     "owner": "cvsp-lab",
                     "repo": "AgilePruner",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": [
                       "agilepruner",
                       "attention",
@@ -1167,7 +1167,7 @@
                     "open_issues": 8,
                     "owner": "Gumpest",
                     "repo": "SparseVLMs",
-                    "stars": 288,
+                    "stars": 289,
                     "topics": [
                       "efficiency",
                       "sparsevlm",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:52:49.829Z",
+    "last_updated": "2026-11-02T23:12:16.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
