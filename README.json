@@ -721,7 +721,7 @@
                     "open_issues": 1,
                     "owner": "zwl666666",
                     "repo": "Skip-Vision",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -1201,7 +1201,7 @@
                     "open_issues": 5,
                     "owner": "yaolinli",
                     "repo": "TimeChat-Online",
-                    "stars": 135,
+                    "stars": 136,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:28:32.813Z",
+    "last_updated": "2026-11-05T21:32:44.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
