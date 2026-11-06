@@ -173,7 +173,7 @@
                     "open_issues": 0,
                     "owner": "dingyue772",
                     "repo": "OmniSIFT",
-                    "stars": 32,
+                    "stars": 31,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -504,7 +504,7 @@
                     "open_issues": 5,
                     "owner": "Theia-4869",
                     "repo": "CDPruner",
-                    "stars": 112,
+                    "stars": 111,
                     "topics": [
                       "inference-efficiency",
                       "training-free-acceleration",
@@ -1020,20 +1020,20 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "PruneVid",
+                  "title": "prunevid",
                   "description": "PruneVid: Visual Token Pruning for Efficient Video Large Language ModelsXiaohu Huang, Hao Zhou, Kai Han   Paper GitHub",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "description": "[ACL 2025] PruneVid: Visual Token Pruning for Efficient Video Large Language Models",
-                    "homepage": null,
+                    "homepage": "https://visual-ai.github.io/prunevid/",
                     "id": 903621853,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2025-05-15T14:03:37Z",
+                    "last_commit": "2026-11-06T06:32:57Z",
                     "open_issues": 2,
                     "owner": "Visual-AI",
-                    "repo": "PruneVid",
+                    "repo": "prunevid",
                     "stars": 73,
                     "topics": []
                   },
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:32:44.176Z",
+    "last_updated": "2026-11-06T21:01:49.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
