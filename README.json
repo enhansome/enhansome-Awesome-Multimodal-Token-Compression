@@ -504,7 +504,7 @@
                     "open_issues": 5,
                     "owner": "Theia-4869",
                     "repo": "CDPruner",
-                    "stars": 112,
+                    "stars": 113,
                     "topics": [
                       "inference-efficiency",
                       "training-free-acceleration",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:54:21.290Z",
+    "last_updated": "2026-11-13T21:35:32.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
