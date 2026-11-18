@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:07:41.516Z",
+    "last_updated": "2026-11-18T22:41:09.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
@@ -1233,7 +1233,7 @@
       "open_issues": 6,
       "owner": "cokeshao",
       "repo": "Awesome-Multimodal-Token-Compression",
-      "stars": 403,
+      "stars": 404,
       "topics": [
         "awesome-list",
         "efficient-ai",
