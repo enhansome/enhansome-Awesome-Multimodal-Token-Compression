@@ -716,8 +716,8 @@
                     "homepage": null,
                     "id": 1009954338,
                     "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-10-31T06:08:56Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-20T13:00:46Z",
                     "open_issues": 1,
                     "owner": "zwl666666",
                     "repo": "Skip-Vision",
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:45:08.513Z",
+    "last_updated": "2026-11-20T22:19:57.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
