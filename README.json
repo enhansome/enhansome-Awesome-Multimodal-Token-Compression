@@ -1201,7 +1201,7 @@
                     "open_issues": 5,
                     "owner": "yaolinli",
                     "repo": "TimeChat-Online",
-                    "stars": 137,
+                    "stars": 138,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:19:57.201Z",
+    "last_updated": "2026-11-21T21:05:13.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
