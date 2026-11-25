@@ -173,7 +173,7 @@
                     "open_issues": 0,
                     "owner": "dingyue772",
                     "repo": "OmniSIFT",
-                    "stars": 32,
+                    "stars": 33,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -194,7 +194,7 @@
                     "open_issues": 3,
                     "owner": "KD-TAO",
                     "repo": "OmniZip",
-                    "stars": 111,
+                    "stars": 112,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -278,7 +278,7 @@
                     "open_issues": 3,
                     "owner": "KD-TAO",
                     "repo": "OmniZip",
-                    "stars": 111,
+                    "stars": 112,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -551,7 +551,7 @@
                     "open_issues": 1,
                     "owner": "cokeshao",
                     "repo": "HoliTom",
-                    "stars": 86,
+                    "stars": 87,
                     "topics": [
                       "large-language-models",
                       "llava",
@@ -602,7 +602,7 @@
                     "open_issues": 1,
                     "owner": "LunarShen",
                     "repo": "FastVID",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -697,7 +697,7 @@
                     "open_issues": 5,
                     "owner": "HYUNJS",
                     "repo": "STTM",
-                    "stars": 62,
+                    "stars": 61,
                     "topics": [
                       "llm",
                       "videoo"
@@ -1146,7 +1146,7 @@
                     "open_issues": 34,
                     "owner": "Vision-CAIR",
                     "repo": "LongVU",
-                    "stars": 435,
+                    "stars": 436,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:05:43.334Z"
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:33:09.558Z",
+    "last_updated": "2026-11-25T00:05:05.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
