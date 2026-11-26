@@ -504,7 +504,7 @@
                     "open_issues": 5,
                     "owner": "Theia-4869",
                     "repo": "CDPruner",
-                    "stars": 113,
+                    "stars": 114,
                     "topics": [
                       "inference-efficiency",
                       "training-free-acceleration",
@@ -1143,7 +1143,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-05-08T22:46:31Z",
-                    "open_issues": 34,
+                    "open_issues": 33,
                     "owner": "Vision-CAIR",
                     "repo": "LongVU",
                     "stars": 436,
@@ -1221,7 +1221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:46:02.304Z",
+    "last_updated": "2026-11-26T23:58:48.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "[TMLR 2026] Survey: https://arxiv.org/pdf/2507.20198",
